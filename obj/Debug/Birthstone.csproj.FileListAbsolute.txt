@@ -1,0 +1,10 @@
+C:\Users\sekim\OneDrive\デスクトップ\Birthstone\bin\Debug\Birthstone.exe.config
+C:\Users\sekim\OneDrive\デスクトップ\Birthstone\bin\Debug\Birthstone.exe
+C:\Users\sekim\OneDrive\デスクトップ\Birthstone\bin\Debug\Birthstone.pdb
+C:\Users\sekim\OneDrive\デスクトップ\Birthstone\obj\Debug\Birthstone.csprojAssemblyReference.cache
+C:\Users\sekim\OneDrive\デスクトップ\Birthstone\obj\Debug\Birthstone.Form1.resources
+C:\Users\sekim\OneDrive\デスクトップ\Birthstone\obj\Debug\Birthstone.Properties.Resources.resources
+C:\Users\sekim\OneDrive\デスクトップ\Birthstone\obj\Debug\Birthstone.csproj.GenerateResource.cache
+C:\Users\sekim\OneDrive\デスクトップ\Birthstone\obj\Debug\Birthstone.csproj.CoreCompileInputs.cache
+C:\Users\sekim\OneDrive\デスクトップ\Birthstone\obj\Debug\Birthstone.exe
+C:\Users\sekim\OneDrive\デスクトップ\Birthstone\obj\Debug\Birthstone.pdb
